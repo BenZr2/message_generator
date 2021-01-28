@@ -15,5 +15,5 @@ const seconds = [15, 30, 45, 60];
 const exercise = repExercises[Math.floor(Math.random() * repExercises.length)];
 const repitions = Math.floor(Math.random() * 20);
 
-console.log(`You have to do ${repitions} ${exercise}! Now!`);
+console.log(`You have to do ${repitions} ${exercise}! Now!!`);
 
