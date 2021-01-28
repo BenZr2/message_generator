@@ -12,9 +12,3 @@ const holdExercises = ['Plank', 'Side Plank', 'Deep Squat', 'Superman', 'Handsta
 
 const seconds = [15, 30, 45, 60];
 
-
-
-
-
-
-#comment
