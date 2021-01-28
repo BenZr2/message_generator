@@ -11,3 +11,10 @@ const repExercises = ['Push Ups', 'Pull Ups', 'Sit Ups', 'Russian Twists', 'Squa
 const holdExercises = ['Plank', 'Side Plank', 'Deep Squat', 'Superman', 'Handstand',];
 
 const seconds = [15, 30, 45, 60];
+
+
+
+
+
+
+#comment
